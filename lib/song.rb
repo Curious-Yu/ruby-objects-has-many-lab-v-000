@@ -15,6 +15,9 @@ class Song
     @@all.length
   end
 
+  def artist
+    
+
   def artist_name
     if self.artist != nil
       self.artist.name
