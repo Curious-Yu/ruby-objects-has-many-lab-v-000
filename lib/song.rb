@@ -1,5 +1,3 @@
-@@ -0,0 +1,18 @@
-
 class Song
 
 attr_accessor :name, :artist
