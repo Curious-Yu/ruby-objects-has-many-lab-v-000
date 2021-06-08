@@ -9,4 +9,7 @@ class Song
     @@all << name
   end
 
+  def self.all
+    
+
 end
