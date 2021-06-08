@@ -13,7 +13,12 @@ class Song
     @@all
   end
 
-  def 
+  def self.song_count
+    @@all.length
+  end
+
+  def artist_name
+    
 
 
 
