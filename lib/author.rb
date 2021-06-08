@@ -7,6 +7,6 @@ class Author
   end
 
   def self.posts(post)
-
+    
 
 end
